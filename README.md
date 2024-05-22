@@ -2,7 +2,7 @@
 
 meu nome é kaiky KN1
 
-- estou estudando no alura;
+- estou estudando na [alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem javaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 
@@ -12,4 +12,4 @@ meu nome é kaiky KN1
 
 @kaiky KN1
 
-![](https://media1.tenor.com/m/U1l0SRVPTkAAAAAd/endrick-palmeiras.gif)
+![](https://media1.tenor.com/m/xLSK5ndb1sEAAAAC/sociedade-esportiva-palmeiras-palmeiras.gif)
